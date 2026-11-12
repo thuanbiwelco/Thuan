@@ -1,0 +1,6 @@
+WEBSITE THUANBIWELCO
+
+Giải nén toàn bộ tệp ZIP, sau đó mở index.html bằng Chrome hoặc Edge.
+Bản lưu gồm giao diện, hình ảnh và PDF để xem ngoại tuyến.
+Chức năng sao chép đường link có thể bị trình duyệt hạn chế khi mở từ máy.
+Địa chỉ trực tuyến: https://thuanbiwelco.crispmaple33.chatgpt.site/
